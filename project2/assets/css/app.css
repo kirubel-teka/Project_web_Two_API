@@ -29,4 +29,13 @@ nav {
     max-width: 800px;
     margin: auto;
     display: flex;
-    flex-wrap: wrap;}
+    flex-wrap: wrap;
+
+    nav a {
+        flex-grow: 1;
+        text-align: center;
+        padding: 1em;
+        position: relative;
+    }
+
+}
