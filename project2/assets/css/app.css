@@ -20,3 +20,8 @@ body {
     background: #fafafa;
     color: #333;
 }
+header {
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 0px;
+}
