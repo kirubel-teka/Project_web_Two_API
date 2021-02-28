@@ -46,6 +46,9 @@ header {
         margin: auto;
         display: flex;
         flex-wrap: wrap;
+        color: aqua;
+        background: #000;
+        align-items: center;
     }
 
         nav a {
